@@ -1,9 +1,11 @@
-# 📢 README Moved!  
+# 📢 README Moved!  🤔
 
-The README has been moved to a new location. Click the button below to view it on the official site.  
+repo බෑන් වෙන හින්ද readme එක පහල button එක ඔබල ගන්න👇.
 
 <p align="center">
   <a href="https://queen-udmodz.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20README-Click%20Here-blue?style=for-the-badge" alt="View README">
+    <img src="https://img.shields.io/badge/Reaf%20README-මෙතන%ඔබන්න-red?style=for-the-badge" alt="View README">
   </a>
+
+  ඩිප්ලෝයි කරන හැටි session id ඔක්කොම එතන ඇති 😇
 </p>
