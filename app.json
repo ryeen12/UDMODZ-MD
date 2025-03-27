@@ -1,0 +1,23 @@
+{
+  "name": "UDMODZ-MD",
+  "description": "",
+  "logo": "https://i.ibb.co/5xzWmSxn/20250224-094453.png",
+  "keywords": ["ud","md" ],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+            "description": "Paste Your session add also to config.js",
+            "required": true,
+            "value": ""
+        }
+    },
+         "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+
+
+}
